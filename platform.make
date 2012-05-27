@@ -8,8 +8,8 @@ core = 7.x
 projects[drupal] = 7.14
 
 ; "Session #FlyViews Drupalcons Source point" installation profile.
-projects[ns_example_profile][type] = profile
-projects[ns_example_profile][download][type] = git
-projects[ns_example_profile][download][url] = git://github.com/balintk/Session--FlyViews---DrupalCons-Source-Site-installation-profile.git
-projects[ns_example_profile][download][branch] = master
+projects[drupalcons_flyviews][type] = profile
+projects[drupalcons_flyviews][download][type] = git
+projects[drupalcons_flyviews][download][url] = git://github.com/balintk/Session--FlyViews---DrupalCons-Source-Site-installation-profile.git
+projects[drupalcons_flyviews][download][branch] = master
 
