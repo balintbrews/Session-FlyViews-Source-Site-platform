@@ -5,7 +5,7 @@ if [ -d web ]; then
     mv web web-old
 fi
 
-drush make --working-copy platform.make web
+drush make --working-copy platform.make web --no-gitinfofile
 
 if [ -d web-old ]; then
     # sites/all should be populated by our make file, so lets' remove that.
