@@ -16,3 +16,7 @@ if [ -d web-old ]; then
     rm -rf web-old
 fi
 
+if [ -d web/sites/default/files ]; then
+    chmod -R 777 web/sites/default/files
+fi
+
