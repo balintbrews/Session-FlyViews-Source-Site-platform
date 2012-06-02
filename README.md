@@ -1,4 +1,4 @@
-Session #FlyViews Source Point website
+Session #FlyViews Source website
 ======================================
 
 This is an example Drupal website that used by Session #FlyViews as a demo material. It provides some content through a REST server.
@@ -18,7 +18,7 @@ All right, give me the steps!
 
 1. Clone the repository.
 1. Run the <code>build</code> script.
-1. Install the site manually from your favorite browser choosing the _#FlyViews Source Point_ installation profile, or run the following command inside the <code>web</code> folder:
+1. Install the site manually from your favorite browser choosing the _#FlyViews Source_ installation profile, or run the following command inside the <code>web</code> folder:
 
-        drush site-install sourcepoint-flyviews --site-name=#FlyViews Source Point
+        drush site-install source_flyviews --site-name=#FlyViews Source
 1. Enjoy!
