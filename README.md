@@ -20,5 +20,5 @@ All right, give me the steps!
 1. Run the <code>build</code> script.
 1. Install the site manually from your favorite browser choosing the _#FlyViews Source_ installation profile, or run the following command inside the <code>web</code> folder:
 
-        drush site-install source_flyviews --site-name=#FlyViews Source
+        drush site-install source_flyviews --site-name="#FlyViews Source"
 1. Enjoy!
